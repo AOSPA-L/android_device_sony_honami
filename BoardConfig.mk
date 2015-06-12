@@ -38,4 +38,4 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
 # Quickboot
 PRODUCT_COPY_FILES += \
-    device/sony/togari/prebuilt/QuickBoot.apk:system/app/QuickBoot/QuickBoot.apk 
+    device/sony/honami/prebuilt/QuickBoot.apk:system/app/QuickBoot/QuickBoot.apk 
